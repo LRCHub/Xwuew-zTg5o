@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Queens Bluff",
+  "base_artist": "i☆Ris",
+  "createdAt": "2025-12-12T18:40:09.845694Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Queens Bluff",
+      "artist": "i☆Ris",
+      "has_synced": true,
+      "path": "select/01_Queens_Bluff_i☆Ris.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Queens Bluff -English ver.-",
+      "artist": "i☆Ris",
+      "has_synced": true,
+      "path": "select/02_Queens_Bluff_-English_ver.-_i☆Ris.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Queens Bluff -Anime Size-",
+      "artist": "i☆Ris",
+      "has_synced": true,
+      "path": "select/03_Queens_Bluff_-Anime_Size-_i☆Ris.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Queens Bluff",
+      "artist": "i☆Ris",
+      "has_synced": false,
+      "path": "select/pl_01_Queens_Bluff_i☆Ris.txt"
+    }
+  ]
+}
